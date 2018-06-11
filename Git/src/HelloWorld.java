@@ -8,7 +8,7 @@ public class HelloWorld {
 		System.out.println("HelloWorld");
 		System.out.println("으아아아아아아아ㅏ아아아아아아아아 기텁!!!");
 		
-		
+		System.out.println("끼약!!!");
 	}
 
 }
